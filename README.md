@@ -2,7 +2,7 @@
 
 ###### Project for Advanced Programming Techniques Assignment 2 [94/100%], RMIT University 2018
 
-Implemented various advanced functions in **C language [ANSI / ISO C]** such as gene mutation/crossover. 
+Implemented various advanced core functions in **C language [ANSI / ISO C]** such as gene mutation/crossover. 
 
 More info about the project can be found in the [assignment spec](https://github.com/yongjiajun/Genetic-Algorithm-CLang/blob/master/specs/AssignmentSpecs.pdf), while other supporting documents can be found [here](https://github.com/yongjiajun/Genetic-Algorithm-CLang/tree/master/specs).
 
