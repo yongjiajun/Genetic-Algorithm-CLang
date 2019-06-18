@@ -6,6 +6,8 @@ Implemented various advanced functions in **C language [ANSI / ISO C]** such as 
 
 More info about the project can be found in the [assignment spec](https://github.com/yongjiajun/Genetic-Algorithm-CLang/blob/master/specs/AssignmentSpecs.pdf), while other supporting documents can be found [here](https://github.com/yongjiajun/Genetic-Algorithm-CLang/tree/master/specs).
 
+*It's best to be compiled and ran on Linux.
+
 ##### To compile:
 
 ```bash
