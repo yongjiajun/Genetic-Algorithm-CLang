@@ -8,13 +8,13 @@ More info about the project can be found in the [assignment spec](https://github
 
 *It's best to be compiled and ran on Linux.
 
-##### To compile:
+#### To compile:
 
 ```bash
 make
 ```
 
-##### To run:
+#### To run:
 
 ```bash
 ./ga geneType alleleSize popSize numGen inputFile [outputFile]
@@ -36,7 +36,7 @@ where:
 
 - **outputFile** is an optional string specifying the name of an output file to write. If specified, there will be no console output but output will be stored into the output file.
 
-For example:
+##### For example:
 
 ```bash
 ./ga minfn 10 20 100 minfnin.dat
