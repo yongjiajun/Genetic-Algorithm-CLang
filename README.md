@@ -66,7 +66,7 @@ where:
 - **inputFile** = *pcbin.dat*
 - **outputFile** = *output.txt*
 
-##### To cleanup:
+#### To cleanup:
 
 ```bash
 make clean
