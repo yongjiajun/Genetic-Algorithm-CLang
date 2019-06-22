@@ -24,17 +24,11 @@ where:
 
 - **./ga** is the name of the executable 
 
-- **geneType** is a string, of either *minfn* or *pcbmill* – indicating which problem the GA is 
+- **geneType** is a string, of either *minfn* or *pcbmill* – indicating which problem the GA is being applied to 
 
-  being applied to 
+- **alleleSize** is a positive non-zero integer specifying the length of a candidate solution (chromosome) 
 
-- **alleleSize** is a positive non-zero integer specifying the length of a candidate solution 
-
-  (chromosome) 
-
-- **popSize** is a positive non-zero integer specifying the number of candidate solutions in 
-
-  the population 
+- **popSize** is a positive non-zero integer specifying the number of candidate solutions in the population 
 
 - **numGen** is a positive integer specifying the number of generations to run the GA for 
 
